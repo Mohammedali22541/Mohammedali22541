@@ -18,15 +18,13 @@ Building clean, scalable backend systems: **APIs · Databases · Auth · Archite
 
 ---
 
-## 🚀 Quick Pitch | نبذة سريعة
+## Quick Pitch
 
-**EN:** Backend-focused .NET developer who enjoys turning requirements into **well-structured APIs** with clean architecture, strong database design, and secure authentication.
-
-**AR:** مطوّر باك إند دوت نت، بحب أحوّل المتطلبات إلى **APIs منظمة** باستخدام Clean Architecture، وتصميم قواعد بيانات قوي، وتطبيق Authentication بشكل آمن.
+Backend-focused .NET developer who enjoys turning requirements into well-structured APIs with clean architecture, strong database design, and secure authentication.
 
 ---
 
-## 🧠 Core Skills | أهم المهارات
+## Core Skills
 
 - **API Design:** RESTful APIs, versioning, validation, error handling
 - **Data:** SQL Server design, EF Core (LINQ, migrations, relationships)
@@ -36,7 +34,7 @@ Building clean, scalable backend systems: **APIs · Databases · Auth · Archite
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -68,12 +66,12 @@ Building clean, scalable backend systems: **APIs · Databases · Auth · Archite
 
 ---
 
-## 📌 Featured Projects | مشاريع مميزة
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ E-Commerce API</h3>
+      <h3>E-Commerce API</h3>
       <p>
         Backend API for an e-commerce system built with <b>ASP.NET Core</b>, <b>EF Core</b>, <b>SQL Server</b>, and clean architecture principles.
       </p>
@@ -89,7 +87,7 @@ Building clean, scalable backend systems: **APIs · Databases · Auth · Archite
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏋️ Gym Management System</h3>
+      <h3>Gym Management System</h3>
       <p>
         Gym management web application built using <b>ASP.NET MVC</b>, <b>EF Core</b>, <b>SQL Server</b>, and layered architecture.
       </p>
@@ -106,17 +104,15 @@ Building clean, scalable backend systems: **APIs · Databases · Auth · Archite
   </tr>
 </table>
 
-### 🎓 Teacher Platform API *(Private)*
+### Teacher Platform API *(Private)*
 
-**EN:** Educational platform backend built with **ASP.NET Core**, **EF Core**, **SQL Server**, **JWT**, and **Clean Architecture**.
+Educational platform backend built with **ASP.NET Core**, **EF Core**, **SQL Server**, **JWT**, and **Clean Architecture**.
 
-**AR:** باك إند لمنصة تعليمية باستخدام **ASP.NET Core** و **EF Core** و **SQL Server** و **JWT** و **Clean Architecture**.
-
-**Repo:** Private (available upon request)
+Repo: Private (available upon request)
 
 ---
 
-## 🎓 Education & Training | التعليم والتدريب
+## Education & Training
 
 - Full Stack .NET Trainee — ITI
 - Backend Development Course — Route Academy
@@ -124,7 +120,7 @@ Building clean, scalable backend systems: **APIs · Databases · Auth · Archite
 
 ---
 
-## 📈 Currently Learning | بتعلم حاليًا
+## Currently Learning
 
 - Advanced ASP.NET Core
 - EF Core best practices
@@ -136,14 +132,7 @@ Building clean, scalable backend systems: **APIs · Databases · Auth · Archite
 
 ---
 
-## 📫 Contact | تواصل معي
+## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/mohammed-ali-2a3546359/
-- **Email:** MohammedAli792406@gmail.com
-
----
-
-### Notes
-
-- GitHub sometimes blocks external dynamic stats cards (showing “Error fetching resource”). I removed them to keep this profile **fast and reliable**.
-- If you want, we can add a **static** stats screenshot under an `/assets` folder.
+- LinkedIn: https://www.linkedin.com/in/mohammed-ali-2a3546359/
+- Email: MohammedAli792406@gmail.com
