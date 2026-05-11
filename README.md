@@ -16,13 +16,12 @@ I build clean, scalable backend systems (APIs, databases, auth, and architecture
 <div align="center">
 
 <!--
-Stats cards sometimes get blocked by rate-limits.
-- Use cache_seconds to reduce rate-limit hits.
-- Keep images lightweight (no extra heavy features).
+If you see "Error fetching resource" on GitHub, it's usually GitHub blocking/rate-limiting the default Vercel host.
+This README uses a commonly working mirror.
 -->
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammedali22541&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedali22541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohammedali22541&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohammedali22541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <img src="https://komarev.com/ghpvc/?username=Mohammedali22541&label=Profile%20views&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
@@ -43,6 +42,7 @@ Stats cards sometimes get blocked by rate-limits.
 
 - Full Stack .NET Trainee — ITI
 - Backend Development Course — Route Academy
+- Frontend Development Course — Route Academy
 - Frontend Development Course — Route Academy
 
 ---
