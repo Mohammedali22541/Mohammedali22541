@@ -15,10 +15,12 @@ I build clean, scalable backend systems (APIs, databases, auth, and architecture
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammedali22541&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedali22541&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- Stats cards sometimes get blocked by rate-limits. These versions include a cache buster (v=) and disable extra heavy features. -->
 
-<img src="https://komarev.com/ghpvc/?username=Mohammedali22541&style=for-the-badge&color=0e75b6" alt="Profile views" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammedali22541&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedali22541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" alt="Top Languages" />
+
+<img src="https://komarev.com/ghpvc/?username=Mohammedali22541&label=Profile%20views&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
 </div>
 
