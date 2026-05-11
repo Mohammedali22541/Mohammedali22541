@@ -16,12 +16,10 @@ I build clean, scalable backend systems (APIs, databases, auth, and architecture
 <div align="center">
 
 <!--
-If you see "Error fetching resource" on GitHub while the same URL works in a new tab,
-switching to Markdown image syntax sometimes renders more reliably than HTML <img>.
+GitHub sometimes blocks external dynamic stats cards (shows "Error fetching resource").
+To keep the profile reliable, stats cards are removed.
+Tip: If you want stats later, use a static screenshot committed in the repo.
 -->
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohammedali22541&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohammedali22541&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 <img src="https://komarev.com/ghpvc/?username=Mohammedali22541&label=Profile%20views&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
