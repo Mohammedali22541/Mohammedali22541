@@ -1,45 +1,60 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ali</h1>
+<div align="center">
 
-<h3 align="center">.NET Backend Developer | ASP.NET Core | EF Core | SQL Server</h3>
+# Hi, I’m Mohammed Ali 👋
 
-<p align="center">
-  I build backend systems using ASP.NET Core, Entity Framework Core, SQL Server, and Clean Architecture.
-</p>
+**.NET Backend Developer** · ASP.NET Core · EF Core · SQL Server · Clean Architecture
+
+I build clean, scalable backend systems (APIs, databases, auth, and architecture).
+
+<a href="https://www.linkedin.com/in/mohammed-ali-2a3546359/" target="_blank">LinkedIn</a>
+· <a href="mailto:MohammedAli792406@gmail.com">MohammedAli792406@gmail.com</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohammedali22541&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedali22541&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://komarev.com/ghpvc/?username=Mohammedali22541&style=for-the-badge&color=0e75b6" alt="Profile views" />
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a .NET Backend Developer focused on building clean, scalable, and maintainable backend applications.
-
-I enjoy working on backend logic, database design, APIs, authentication, authorization, and application architecture.
-
-Currently, I am improving my skills in real-world backend development, clean code, design patterns, and CI/CD.
+- I focus on **backend development with .NET**: building RESTful APIs, designing databases, and writing maintainable code.
+- I care about **clean code**, **SOLID principles**, and practical **design patterns**.
+- I’m actively improving in **real-world backend development** and **CI/CD** (GitHub Actions).
+- Open to roles: **Backend .NET Developer** (and Full Stack when needed).
 
 ---
 
 ## 🎓 Education & Training
 
-- Full Stack .NET Trainee at ITI
-- Backend Development Course at Route Academy
-- Frontend Development Course at Route Academy
+- Full Stack .NET Trainee — ITI
+- Backend Development Course — Route Academy
+- Frontend Development Course — Route Academy
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
 ### Backend
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Frontend Basics
+### Frontend Basics (when needed)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -58,76 +73,77 @@ Currently, I am improving my skills in real-world backend development, clean cod
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 What I’m Good At (Backend)
 
-- Building RESTful APIs with ASP.NET Core
-- Working with Entity Framework Core and SQL Server
-- Applying Clean Architecture and Onion Architecture
-- Using Repository Pattern and Unit of Work
-- Implementing Authentication and Authorization
-- Writing clean, maintainable, and testable code
-- Learning CI/CD using GitHub Actions
+- Building **RESTful APIs** with ASP.NET Core
+- Designing & implementing **databases** (SQL Server)
+- **Entity Framework Core** (LINQ, migrations, relationships)
+- **Authentication & Authorization** (JWT / roles / claims)
+- Applying **Clean Architecture / Onion Architecture**
+- Repository Pattern + Unit of Work (when suitable)
+- Writing clean, testable, maintainable code
+- Documenting APIs with **Swagger**
 
 ---
 
 ## 🚀 Featured Projects
 
-### Teacher Platform API
+### 🛍️ E-Commerce API
 
-An educational platform backend built with ASP.NET Core, Entity Framework Core, SQL Server, JWT Authentication, and Clean Architecture.
+Backend API for an e-commerce system built with **ASP.NET Core**, **EF Core**, **SQL Server**, and clean architecture principles.
 
-Key features:
-
-- Authentication and Authorization
-- Course and lesson management
-- Quiz and attempt system
-- Repository Pattern and Unit of Work
-- Swagger API documentation
-
----
-
-### Gym Management System
-
-A gym management web application built using ASP.NET MVC, Entity Framework Core, SQL Server, and layered architecture.
-
-Key features:
-
-- Member management
-- Trainer management
-- Subscription and membership plans
-- Attendance tracking
-- CRUD operations
-- Clean service-based structure
-
----
-
-### E-Commerce API
-
-A backend API for an e-commerce system built with ASP.NET Core, Entity Framework Core, SQL Server, and clean architecture principles.
-
-Key features:
-
-- Product and category management
+**Highlights**
+- Product & category management
 - Shopping cart functionality
 - Order management
-- User authentication and authorization
-- RESTful API endpoints
-- Repository Pattern and Unit of Work
+- Authentication & authorization
 - Swagger API documentation
+
+**Repo**: https://github.com/Mohammedali22541/ECommerce.Api
+
+---
+
+### 🏋️ Gym Management System
+
+Gym management web application built using **ASP.NET MVC**, **Entity Framework Core**, **SQL Server**, and layered architecture.
+
+**Highlights**
+- Member & trainer management
+- Subscriptions & membership plans
+- Attendance tracking
+- CRUD operations
+
+**Repo**: https://github.com/Mohammedali22541/GymManagementSystem
+
+---
+
+### 🎓 Teacher Platform API *(Private)*
+
+Educational platform backend built with **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, **JWT Authentication**, and **Clean Architecture**.
+
+**Highlights**
+- Authentication & authorization
+- Course & lesson management
+- Quiz & attempt system
+- Swagger API documentation
+
+**Repo**: Private (available upon request)
+
+---
 
 ## 📌 Currently Learning
 
 - Advanced ASP.NET Core
-- Entity Framework Core best practices
-- Clean Architecture in real-world projects
+- EF Core best practices
+- Clean Architecture in real projects
 - Design Patterns with C#
-- Git and GitHub workflow
-- GitHub Actions and CI/CD
-- Azure basics for backend developers
+- Git & GitHub workflows
+- GitHub Actions & CI/CD
+- Azure fundamentals for backend developers
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/mohammed-ali-2a3546359)
-- Email: MohammedAli792406@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/mohammed-ali-2a3546359/
+- **Email**: MohammedAli792406@gmail.com
