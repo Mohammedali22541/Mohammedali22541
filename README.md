@@ -36,7 +36,7 @@ Status       : Open to Opportunities
 |------|---------|
 | 🏗️ Architecture | Clean Architecture · Onion Architecture · N-Tier · SOLID · Repository · Unit of Work |
 | ⚙️ Backend | C# · ASP.NET Core · ASP.NET MVC · Web API · REST APIs · Authentication · Authorization |
-| 🗄️ Database | SQL Server · EF Core · LINQ · Migrations · Relationships · T-SQL |
+| 🗄️ Database | SQL Server · EF Core · LINQ · Migrations · Relationships |
 | 🎨 Frontend | HTML5 · CSS3 · JavaScript · TypeScript · Angular · Bootstrap · Tailwind CSS |
 | 🔐 Security | JWT Authentication · Role-Based Authorization · Claims · Policies |
 | 🧩 API Quality | Validation · Error Handling · DTOs · Swagger Documentation · Clean Responses |
@@ -203,7 +203,7 @@ Educational platform backend built with **ASP.NET Core**, **EF Core**, **SQL Ser
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
 
 <br/>
 
