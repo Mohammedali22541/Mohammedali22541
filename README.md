@@ -1,25 +1,16 @@
 <div align="center">
 
-# Hi, I’m Mohammed Ali 👋
+# Mohammed Ali
 
 **.NET Backend Developer** · ASP.NET Core · EF Core · SQL Server · Clean Architecture
 
-I build clean, scalable backend systems (APIs, databases, auth, and architecture).
+Building clean, scalable backend systems: **APIs · Databases · Auth · Architecture**
 
-<a href="https://www.linkedin.com/in/mohammed-ali-2a3546359/" target="_blank">LinkedIn</a>
-· <a href="mailto:MohammedAli792406@gmail.com">MohammedAli792406@gmail.com</a>
-
-</div>
-
----
-
-<div align="center">
-
-<!--
-GitHub sometimes blocks external dynamic stats cards (shows "Error fetching resource").
-To keep the profile reliable, stats cards are removed.
-Tip: If you want stats later, use a static screenshot committed in the repo.
--->
+<a href="mailto:MohammedAli792406@gmail.com"><b>Email</b></a>
+&nbsp;•&nbsp;
+<a href="https://www.linkedin.com/in/mohammed-ali-2a3546359/" target="_blank"><b>LinkedIn</b></a>
+&nbsp;•&nbsp;
+<a href="https://github.com/Mohammedali22541?tab=repositories" target="_blank"><b>Projects</b></a>
 
 <img src="https://komarev.com/ghpvc/?username=Mohammedali22541&label=Profile%20views&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
@@ -27,20 +18,21 @@ Tip: If you want stats later, use a static screenshot committed in the repo.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Quick Pitch | نبذة سريعة
 
-- I focus on **backend development with .NET**: building RESTful APIs, designing databases, and writing maintainable code.
-- I care about **clean code**, **SOLID principles**, and practical **design patterns**.
-- I’m actively improving in **real-world backend development** and **CI/CD** (GitHub Actions).
-- Open to roles: **Backend .NET Developer** (and Full Stack when needed).
+**EN:** Backend-focused .NET developer who enjoys turning requirements into **well-structured APIs** with clean architecture, strong database design, and secure authentication.
+
+**AR:** مطوّر باك إند دوت نت، بحب أحوّل المتطلبات إلى **APIs منظمة** باستخدام Clean Architecture، وتصميم قواعد بيانات قوي، وتطبيق Authentication بشكل آمن.
 
 ---
 
-## 🎓 Education & Training
+## 🧠 Core Skills | أهم المهارات
 
-- Full Stack .NET Trainee — ITI
-- Backend Development Course — Route Academy
-- Frontend Development Course — Route Academy
+- **API Design:** RESTful APIs, versioning, validation, error handling
+- **Data:** SQL Server design, EF Core (LINQ, migrations, relationships)
+- **Auth:** JWT, roles/claims, authorization policies
+- **Architecture:** Clean Architecture / Onion, SOLID, pragmatic patterns
+- **Quality:** clean code, maintainability, documentation (Swagger)
 
 ---
 
@@ -57,7 +49,7 @@ Tip: If you want stats later, use a static screenshot committed in the repo.
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### Frontend Basics (when needed)
+### Frontend (when needed)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -76,65 +68,63 @@ Tip: If you want stats later, use a static screenshot committed in the repo.
 
 ---
 
-## 🧠 What I’m Good At (Backend)
+## 📌 Featured Projects | مشاريع مميزة
 
-- Building **RESTful APIs** with ASP.NET Core
-- Designing & implementing **databases** (SQL Server)
-- **Entity Framework Core** (LINQ, migrations, relationships)
-- **Authentication & Authorization** (JWT / roles / claims)
-- Applying **Clean Architecture / Onion Architecture**
-- Repository Pattern + Unit of Work (when suitable)
-- Writing clean, testable, maintainable code
-- Documenting APIs with **Swagger**
-
----
-
-## 🚀 Featured Projects
-
-### 🛍️ E-Commerce API
-
-Backend API for an e-commerce system built with **ASP.NET Core**, **EF Core**, **SQL Server**, and clean architecture principles.
-
-**Highlights**
-- Product & category management
-- Shopping cart functionality
-- Order management
-- Authentication & authorization
-- Swagger API documentation
-
-**Repo**: https://github.com/Mohammedali22541/ECommerce.Api
-
----
-
-### 🏋️ Gym Management System
-
-Gym management web application built using **ASP.NET MVC**, **Entity Framework Core**, **SQL Server**, and layered architecture.
-
-**Highlights**
-- Member & trainer management
-- Subscriptions & membership plans
-- Attendance tracking
-- CRUD operations
-
-**Repo**: https://github.com/Mohammedali22541/GymManagementSystem
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ E-Commerce API</h3>
+      <p>
+        Backend API for an e-commerce system built with <b>ASP.NET Core</b>, <b>EF Core</b>, <b>SQL Server</b>, and clean architecture principles.
+      </p>
+      <ul>
+        <li>Products & Categories</li>
+        <li>Shopping Cart</li>
+        <li>Orders</li>
+        <li>Authentication & Authorization</li>
+        <li>Swagger docs</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Mohammedali22541/ECommerce.Api" target="_blank"><b>Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏋️ Gym Management System</h3>
+      <p>
+        Gym management web application built using <b>ASP.NET MVC</b>, <b>EF Core</b>, <b>SQL Server</b>, and layered architecture.
+      </p>
+      <ul>
+        <li>Members & Trainers</li>
+        <li>Subscriptions & Plans</li>
+        <li>Attendance tracking</li>
+        <li>CRUD operations</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Mohammedali22541/GymManagementSystem" target="_blank"><b>Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 🎓 Teacher Platform API *(Private)*
 
-Educational platform backend built with **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, **JWT Authentication**, and **Clean Architecture**.
+**EN:** Educational platform backend built with **ASP.NET Core**, **EF Core**, **SQL Server**, **JWT**, and **Clean Architecture**.
 
-**Highlights**
-- Authentication & authorization
-- Course & lesson management
-- Quiz & attempt system
-- Swagger API documentation
+**AR:** باك إند لمنصة تعليمية باستخدام **ASP.NET Core** و **EF Core** و **SQL Server** و **JWT** و **Clean Architecture**.
 
-**Repo**: Private (available upon request)
+**Repo:** Private (available upon request)
 
 ---
 
-## 📌 Currently Learning
+## 🎓 Education & Training | التعليم والتدريب
+
+- Full Stack .NET Trainee — ITI
+- Backend Development Course — Route Academy
+- Frontend Development Course — Route Academy
+
+---
+
+## 📈 Currently Learning | بتعلم حاليًا
 
 - Advanced ASP.NET Core
 - EF Core best practices
@@ -146,7 +136,14 @@ Educational platform backend built with **ASP.NET Core**, **Entity Framework Cor
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact | تواصل معي
 
-- **LinkedIn**: https://www.linkedin.com/in/mohammed-ali-2a3546359/
-- **Email**: MohammedAli792406@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mohammed-ali-2a3546359/
+- **Email:** MohammedAli792406@gmail.com
+
+---
+
+### Notes
+
+- GitHub sometimes blocks external dynamic stats cards (showing “Error fetching resource”). I removed them to keep this profile **fast and reliable**.
+- If you want, we can add a **static** stats screenshot under an `/assets` folder.
