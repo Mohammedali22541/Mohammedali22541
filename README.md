@@ -132,6 +132,15 @@ Repo: Private (available upon request)
 
 ---
 
+## Open To
+
+- Junior .NET Backend Developer roles
+- Internship opportunities
+- Freelance backend tasks
+- Full Stack tasks when needed
+
+---
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/mohammed-ali-2a3546359/
